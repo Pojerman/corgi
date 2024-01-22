@@ -1,2 +1,2 @@
-# korgi
-Korgi
+# Corgi
+
