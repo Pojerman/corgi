@@ -1,5 +1,5 @@
 # Valentine
 
-[Github Page](https://pojerman.github.io/corgi/)
+[Github Page](https://pojerman.github.io/happy-wishes/)
 
 ![](assets/valentine-md.gif)
