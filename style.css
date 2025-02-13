@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: white;
+    background-color: #fcfcfc;
     font-family: 'Arial', sans-serif;
     text-align: center;
 }
@@ -35,6 +35,10 @@ body {
     display: flex;
     justify-content: center;
     width: inherit;
+}
+
+img {
+    width: 60%;
 }
 
 video {
