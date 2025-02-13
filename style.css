@@ -38,8 +38,14 @@ body {
 }
 
 video {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+    -webkit-appearance: none;
     width: inherit;
 }
+
 
 .btn-container {
     margin-top: 15px;
