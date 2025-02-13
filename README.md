@@ -1,5 +1,5 @@
-# Corgi
+# Valentine
 
 [Github Page](https://pojerman.github.io/corgi/)
 
-![](dog.gif)
+![](assets/valentine-md.gif)
