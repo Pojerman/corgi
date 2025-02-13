@@ -41,20 +41,8 @@ img {
     width: 100%;
 }
 
-video {
-    border: none !important;
-    outline: none !important;
-    box-shadow: none !important;
-    background-color: transparent !important;
-    -webkit-appearance: none;
-    transform: translate3d(0, 0, 0);
-    will-change: transform;
-    backface-visibility: hidden;
-    width: inherit;
-}
 
-
-.btn-container {
+.text-container {
     margin-top: 15px;
     max-width: 360px;
     line-height: 1.4;
@@ -65,7 +53,7 @@ video {
         font-size: 24px;
     }
 
-    .btn-container {
+    .text-container {
         font-size: 16px;
         padding: 8px;
     }
