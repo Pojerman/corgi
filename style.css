@@ -43,6 +43,9 @@ video {
     box-shadow: none !important;
     background-color: transparent !important;
     -webkit-appearance: none;
+    transform: translate3d(0, 0, 0);
+    will-change: transform;
+    backface-visibility: hidden;
     width: inherit;
 }
 
