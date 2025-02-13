@@ -37,6 +37,10 @@ body {
     width: inherit;
 }
 
+video {
+    width: inherit;
+}
+
 .btn-container {
     margin-top: 15px;
     max-width: 360px;
